@@ -3,4 +3,5 @@
 Welcome to my coursework repository. 
 
 ## Layout
-Currently working on **Week 01: Values, Types and Input-Output**.
+- **Week 01:** Values, Types and Input-Output
+- **Week 02:** Decisions and Loops (New!)
