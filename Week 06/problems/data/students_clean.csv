@@ -1,0 +1,24 @@
+Name,Age,Course,Grade,Attendance,City,Scholarship
+Alice Johnson,18.0,Computer Science,95.0,95.0,London,Yes
+Ben Carter,18.0,Computer Science,88.0,90.0,London,Yes
+Chloe Davies,18.0,Computer Science,75.4,88.0,Manchester,Yes
+Daniel Evans,18.0,Computer Science,79.0,85.0,Birmingham,No
+Emma Foster,18.0,Computer Science,76.0,82.0,London,Unknown
+Frank Green,18.0,Computer Science,72.0,80.0,Leeds,No
+Grace Hall,18.0,Unknown,68.0,75.0,London,No
+Harry Irwin,18.0,Computer Science,65.0,72.0,Manchester,No
+Isla Jones,18.0,Mathematics,91.0,95.0,Manchester,Yes
+Jack King,18.0,Mathematics,75.4,92.0,London,Yes
+Kiran Patel,18.0,Mathematics,85.0,90.0,Birmingham,Yes
+Layla Moore,18.0,Mathematics,82.0,88.0,London,Yes
+Mohammed Khan,18.0,Mathematics,80.0,83.0,Leeds,Unknown
+Nina Owens,18.0,Mathematics,66.0,70.0,London,No
+Priya Shah,18.0,Data Science,84.0,88.0,Manchester,No
+Quinn Reed,18.0,Data Science,78.0,86.0,Leeds,No
+Rosa Silva,18.0,Data Science,75.4,76.0,London,No
+Sam Turner,18.0,Data Science,58.0,65.0,Birmingham,No
+Tara Underwood,18.0,Data Science,55.0,60.0,Manchester,No
+Umar Vaughan,18.0,Unknown,87.0,91.0,London,Yes
+Violet Walsh,18.0,Cyber Security,81.0,85.0,Manchester,No
+Yara Young,18.0,Cyber Security,62.0,70.0,Leeds,No
+Zane Adams,18.0,Cyber Security,45.0,55.0,London,No
